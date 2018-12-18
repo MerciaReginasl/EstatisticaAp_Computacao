@@ -1,2 +1,2 @@
-# EstisticaAp_Computacao
+# EstatisticaAp_Computacao
 Projetos Semestrais
